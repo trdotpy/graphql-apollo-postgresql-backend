@@ -1,8 +1,17 @@
-# Apollo/GraphQL/Postgres Backend API
+# Apollo-GraphQL-Postgres Backend
 
-## Description
+## Technologies
 
-Backend made with Node.js, Typescript, GraphQL, Apollo Server, PostgreSQL, JWT, Nexus and TypeORM
+This project was made with the following packages:
+
+- Node.js
+- Typescript
+- Apollo Server
+- GraphQL
+- PostgreSQL
+- JWT
+- Nexus
+- TypeORM
 
 ## Usage
 
@@ -18,6 +27,15 @@ $ cd graphql-apollo-postgresql-backend
 # Install dependencies
 $ npm install
 
+```
+
+```bash
+# Create .env file in your root directory and fill in your credentials
+CONNECTION_STRING = Enter PostgreSQL connection string
+TOKEN_SECRET = Enter JWT secret
+```
+
+```bash
 # Run script to convert Typescript to Javascript (if needed)
 $ npm run watch
 
@@ -26,3 +44,8 @@ $ npm run dev
 ```
 
 ---
+
+# Contact
+
+[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'>](https://github.com/trdotpy/)
+[<img src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white'>](mailto:tanvi.rahman@outlook.com)
