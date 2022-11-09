@@ -27,20 +27,15 @@ $ cd graphql-postgres-server
 # Install dependencies
 $ npm install
 
+# Start server
+$ npm run dev
+
 ```
 
 ```bash
 # Create .env file in your root directory and fill in your credentials
-CONNECTION_STRING = Enter PostgreSQL connection string
-TOKEN_SECRET = Enter JWT secret
-```
-
-```bash
-# Run script to convert Typescript to Javascript (if needed)
-$ npm run watch
-
-# Start server
-$ npm run dev
+CONNECTION_STRING = "PostgreSQL connection string"
+TOKEN_SECRET = "JWT secret"
 ```
 
 ---
