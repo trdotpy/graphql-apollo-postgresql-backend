@@ -1,4 +1,4 @@
-# Apollo-GraphQL-Postgres Backend
+# GraphQL-Postgres Server
 
 ## Technologies
 
@@ -19,10 +19,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/trdotpy/graphql-apollo-postgresql-backend
+$ git clone https://github.com/trdotpy/graphql-postgres-server
 
 # Go into the repository
-$ cd graphql-apollo-postgresql-backend
+$ cd graphql-postgres-server
 
 # Install dependencies
 $ npm install
