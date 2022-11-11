@@ -1,8 +1,6 @@
 # GraphQL-Postgres Server
 
-## Technologies
-
-This project was made with the following packages:
+## Technology
 
 - Node.js
 - Typescript
