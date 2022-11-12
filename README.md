@@ -1,4 +1,4 @@
-# GraphQL-Postgres Server
+# GraphQL-Apollo Server
 
 ## Technology
 
